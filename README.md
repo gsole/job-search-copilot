@@ -46,14 +46,14 @@ Without browser access you can still do the interview, build your profile, set u
 ### Claude Code
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/job-search-copilot.git
+git clone https://github.com/gsole/job-search-copilot.git
 cp -r job-search-copilot/skills/job-search-copilot ~/.claude/skills/
 ```
 
 ### OpenAI Codex
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/job-search-copilot.git
+git clone https://github.com/gsole/job-search-copilot.git
 mkdir -p ~/.codex/skills
 cp -r job-search-copilot/skills/job-search-copilot ~/.codex/skills/
 ```
